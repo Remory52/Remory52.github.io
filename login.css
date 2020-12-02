@@ -28,14 +28,14 @@
     margin: 10px;
   }
 
-  input[type="submit"] {
+  button {
     margin: 20px 0 0 0;
     position: static;
     width: 40%;
     transform: translate(60%);
   }
 
-  input[type="submit"]:hover{
+  button:hover{
       background-color: white;
   }
 

@@ -10,6 +10,23 @@
     background-color: darkslategray;
 }
 
+.navbar a{
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.container{
+    flex: auto;
+    width: 30%;
+    background-color: whitesmoke;
+    box-shadow: black 0px 10px 15px -5px;
+    border-radius: 6px;
+    margin: 50px;
+    padding: 50px;
+}
+
 h4{
     text-align: right;
 }
