@@ -27,6 +27,18 @@
     padding: 50px;
 }
 
+@media screen and (max-width: 600px){
+    .container{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .column{
+      flex: 50%;
+    }
+}
+
 h4{
     text-align: right;
 }
